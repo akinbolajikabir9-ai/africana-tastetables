@@ -1,0 +1,6 @@
+{
+  "name": "Africana — Tastetables_Africana",
+  "description": "Authentic Nigerian kitchen and grill in Akure, Ondo. Dine-in, drive-through, and delivery at Shammall Mall, FUTA South Gate.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
